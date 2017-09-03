@@ -7,5 +7,6 @@ This is an implementation of a neural network with hidden units that have sigmoi
 The Neural Network has calculations that do both Forward Propagation through to the output node and then do backwards propagation to calculate hidden units errors and adjust weights accordingly. 
 
 <b>[Problem Statement]</b>
-This nueral Network model predicts the daily bike rental ridership in SFO Bay Area. 
+This nueral Network model predicts the daily bike rental ridership in SFO Bay Area.<br />
+[<b>Link to Project</b>](https://github.com/Suryak1986/Deep-Learning/blob/master/first-neural-network/Your_first_neural_network.ipynb)
 

@@ -26,6 +26,7 @@ This model uses tensorflow to identify handwritten images in the MNIST dataset
 
 <b>[Problem Statement]</b>
 This model uses Keras and CNN to classify dogs and cats using the Kaggle dataset [here](https://www.kaggle.com/c/dogs-vs-cats)
+
 We also use the Resnet10 pretrained model that is part of the Keras library to identify what kind of dog or cat it is. 
 
 [<b>Link to Project</b>](https://github.com/SuryaKari/Deep-Learning/blob/master/Image%20Classification%20using%20Keras%20and%20Convolutional%20Neural%20Networks.ipynb)

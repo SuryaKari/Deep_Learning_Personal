@@ -30,3 +30,14 @@ This model uses Keras and CNN to classify dogs and cats using the Kaggle dataset
 We also use the Resnet10 pretrained model that is part of the Keras library to identify what kind of dog or cat it is. 
 
 [<b>Link to Project</b>](https://github.com/SuryaKari/Deep-Learning/blob/master/Image%20Classification%20using%20Keras%20and%20Convolutional%20Neural%20Networks.ipynb)
+
+**************************************************************
+
+### Project 4 : Fashion MNIST classification using Keras and Convolutional Neural Networks
+
+<b>[Problem Statement]</b>
+This model uses Keras and CNN to classify clothing images Fashion MNIST dataset [here](https://github.com/zalandoresearch/fashion-mnist)
+
+[<b>Link to Project</b>](https://github.com/SuryaKari/Deep-Learning/blob/master/Fashion_Mnist_Surya.ipynb)
+
+
